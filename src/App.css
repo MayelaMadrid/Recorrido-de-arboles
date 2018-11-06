@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+.fondo{
+  background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 550px;
+text-align: center;
+
+}
+.label-2{
+  font-family: 'Arvo', serif;
+font-size:30px;
+color:white;
+}
+.row{
+  
+  align-items: center;
+   justify-content: center;
+  display: flex;}
+.footer{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  font-family: 'Allura', cursive;
+  font-size:40px;
+color:black;
+}
+.resultados{ 
+   top:-70px;
+  left:750px;
+  width: 600px;
+position: relative;
+}
+.rs{
+  font-family: 'Bangers', cursive;
+  font-size:40px;
+  color:black;
+}
+
+.resultados-label{
+  letter-spacing: 0.3em;
+  font-size:40px;
+  margin-left: 10px;
+  font-family: 'Titan One', cursive;
+color:white;
+}
+
+.txt{
+  top:100px;
+  left:80px;
+  width: 400px;
+  font-size:40px;
+position: relative;
+}
+.boton{
+  top:50px;
+  right: 30px;
+ 
+position: relative;
+}
+
+.label{
+top:0px;
+position: relative;
+font-family: 'Gochi Hand', cursive;
+font-size:100px;
+color:white;
+}
+.txt-field{
+ 
+    display: flex;
+   
+  
+}
